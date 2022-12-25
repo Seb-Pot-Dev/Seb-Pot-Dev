@@ -1,4 +1,5 @@
 <h2 align="center">Bienvenu sur mon profil GitHub 👋 </h2>
+
 ## A propos de moi
 <p align="left">Je m'appel Sébastien POTHÉE, j'ai 25 ans et je vie a Strasbourg. Actuellement en formation préalable au titre de Développeur Web/Web Mobile, je suis a la recherche d'un stage ou d'une alternance pour ce premier semestre 2023.</p>
 
