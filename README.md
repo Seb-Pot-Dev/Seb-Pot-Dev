@@ -1,15 +1,16 @@
 <h2 align="center">Bienvenu sur mon profil GitHub 👋 </h2>
 
-## A propos de moi
+## A propos de moi :v:
 <p align="left">Je m'appel Sébastien POTHÉE, j'ai 25 ans et je vie a Strasbourg. Actuellement en formation préalable au titre de Développeur Web/Web Mobile, je suis a la recherche d'un stage ou d'une alternance pour ce premier semestre 2023.</p>
 
-## Mon parcours
+## Mon parcours :dizzy:
 Bercé par l'informatique, j'ai eu la chance d'avoir accès a cet outil dès mon plus plus jeune âge avec un père passionné lui aussi.
 De nature curieux, j'ai longtemps nourri ma soif de connaissances a l'université. 
-En étudiant la Psychologie :thought_balloon: et les Sciences du Vivant :seedling:, j'étend alors mes connaissances mais fais face a un domaine bouché.
-C'est alors que je fais le choix de me ré-orienter vers mon autre passion, le numérique. :computer:
 
-En 2022, je rejoins l'organisme Elan Formation afin de suivre une formation professionalisante en développement web/web mobile. Véritable révélation, je sais désormais la direction que je veux prendre. :stars:
+En étudiant la Psychologie :thought_balloon: et les Sciences du Vivant :seedling:, j'étend alors mes connaissances mais fais face a un domaine bouché.
+C'est alors que je fais le choix de m'orienter vers mon autre passion, le numérique. :computer:
+
+En 2022, je rejoins l'organisme Elan Formation afin de suivre une formation professionalisante en développement web/web mobile. Véritable révélation, je sais désormais la direction que je veux prendre. :star2:
 
 
 
