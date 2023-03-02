@@ -12,6 +12,7 @@ C'est alors que je fais le choix de m'orienter vers mon autre passion, le numér
 
 En 2022, je rejoins l'organisme Elan Formation afin de suivre une formation professionalisante en développement web/web mobile. Véritable révélation, je sais désormais la direction que je veux prendre. :star2:
 
+I'm a native french speaker but considering my life-time passion for digital and my studies, i  learned to speak english quite well early. My dream first experience would be working for an english-speaking international company. :earth_americas:
 
 
 ## Languages et outils
