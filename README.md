@@ -4,6 +4,8 @@
 <p align="left">Je m'appel Sébastien POTHÉE, j'ai 27 ans et je vis a Strasbourg. 
 Je suis titulaire du Titre de développeur web et web mobile, actuellement en quête d'une entreprise pour réaliser une licence de Concepteur Développeur d'Applications. </p>
 
+## Checkout my portfolio https://sebastienpothee.com/
+
 ## Mon parcours :dizzy:
 Bercé par l'informatique, j'ai eu la chance d'avoir accès à cet outil dès mon plus jeune âge avec un père passionné lui aussi.
 De nature curieuse, j'ai longtemps nourri ma soif de connaissances a l'université. 
