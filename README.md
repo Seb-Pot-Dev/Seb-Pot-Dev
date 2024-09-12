@@ -1,9 +1,9 @@
 <h2 align="center">Bienvenue sur mon profil GitHub 👋 </h2>
 
 ## A propos de moi :v:
-<p align="left">Je m'appelle Sébastien POTHÉE, j'ai 27 ans et je vis à Strasbourg. 
+<p align="left">Je m'appelle Sébastien, j'ai 27 ans et je vis à Strasbourg. 
 Passionné de développement d'applications, titulaire du Titre de développeur web et web mobile.
-Actuellement en quête d'une entreprise pour exercer, n'hésitez pas à me contacter. </p>
+Actuellement disponible sur le marché de l'emploi, n'hésitez pas à me contacter. </p>
 
 ## Visitez mon portfolio https://sebastienpothee.com
 
