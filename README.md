@@ -1,9 +1,7 @@
-<h2 align="center">Bienvenue sur mon profil GitHub 👋 </h2>
+<h2 align="center">Welcome to my GitHub Profile! 👋 </h2>
 
 ## A propos de moi :v:
-<p align="left">Je m'appelle Sébastien et je vis à Strasbourg. 
-Passionné de développement d'applications, titulaire du Titre de développeur web et web mobile.
-Actuellement disponible sur le marché de l'emploi, n'hésitez pas à me contacter. </p>
+<p align="left">My name's Seb. I developp web apps.
 
 ## Visitez mon portfolio https://sebastienpothee.com
 
