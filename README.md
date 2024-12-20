@@ -6,6 +6,5 @@
 ## Check out my portfolio https://sebastienpothee.com
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Seb-Pot-Dev" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/Seb-Pot-Dev"/>
 </a>
-
