@@ -4,7 +4,3 @@
 <p align="left">My name's Seb. I'm a french web dev.
 
 ## Check out my portfolio https://sebastienpothee.com
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Seb-Pot-Dev"/>
-</a>
