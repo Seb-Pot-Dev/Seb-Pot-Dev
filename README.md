@@ -2,5 +2,3 @@
 
 ## About me :v:
 <p align="left">My name's Seb. I'm a french web dev, currently working as a front-end developer for Würth France.
-
-## Check out my portfolio https://sebastienpothee.com
